@@ -1,1 +1,1 @@
-IntelliJ Based Spring MVC Sample
+IntelliJ Based Spring MVC Sample.
